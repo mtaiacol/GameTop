@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameTop", "GameTop\GameTop.csproj", "{A6016DDF-1D75-4602-BA4F-4D7EB7D46124}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameTop", "..\GameTOP\GameTop.csproj", "{A6016DDF-1D75-4602-BA4F-4D7EB7D46124}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameTOP.lib", "GameTOP.lib\GameTOP.lib.csproj", "{7233174A-6AAE-450D-B272-47F01F96AD19}"
 EndProject
